@@ -11,6 +11,7 @@
 [<img align="left" alt="Baranga69 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Baranga69 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Baranga69 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Baranga69 | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/email.svg" />][email]
 
 <br/>
 
@@ -25,8 +26,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <!-- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
-
   [![Baranga69's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baranga69&show_icons=true&theme=dracula)](https://github.com/Baranga69/github-readme-stats)
 
 </details>
@@ -35,3 +34,4 @@
 [twitter]: https://twitter.com/BarangaKeith
 [instagram]: https://instagram.com/bara.nga
 [linkedin]: https://www.linkedin.com/in/keith-baranga-944181154/
+[email]: keithbaranga40@gmail.com
