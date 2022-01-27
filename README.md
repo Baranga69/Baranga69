@@ -41,6 +41,7 @@
 </details>
 
 <details>
+<summary>:zap: Top Languages</summary>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baranga69)
 </details>
