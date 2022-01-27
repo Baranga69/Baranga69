@@ -40,11 +40,11 @@
 
 </details>
 
-<details>
+<!-- <details>
 <summary>:zap: Top Languages</summary>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baranga69&show_icons=true&theme=cobalt)
-</details>
+</details> -->
 
 
 [twitter]: https://twitter.com/BarangaKeith
