@@ -11,7 +11,6 @@
 [<img align="left" alt="Baranga69 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Baranga69 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Baranga69 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Baranga69 | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/email.svg" />][email]
 
 <br/>
 
@@ -34,4 +33,3 @@
 [twitter]: https://twitter.com/BarangaKeith
 [instagram]: https://instagram.com/bara.nga
 [linkedin]: https://www.linkedin.com/in/keith-baranga-944181154/
-[email]: keithbaranga40@gmail.com
