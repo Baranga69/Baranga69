@@ -3,7 +3,7 @@
 - 👀 I’m interested in mobile development in Java and Dart as well as Desktop development in C# 
 - 🌱 I’m currently learning Machine Learning in Python and C# for Desktop development alongside ASP.NET for Web Development
 - 👯 I’m looking to collaborate with other aspiring developers
-- 🥅 2022 Goals: Contribute more to Open Source projects and have more commits on a regular basis to improve my contribution chart's appearance
+- 🥅 2022 Goals: Contribute more to Open Source projects and have more commits on a regular basis to improve my own skills while growing my activity
 - ⚡ Fun fact: I am a huge nerd and I enjoy reading High Fantasy, I'm into all things mechanical too
 
 ### Connect with me:
