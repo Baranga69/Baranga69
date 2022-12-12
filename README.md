@@ -29,12 +29,12 @@
 <br/>
 
 
-<details>
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
   ![Baranga69's GitHub stats](https://github-readme-stats3-peach.vercel.app/api?username=Baranga69&show_icons=true&theme=cobalt)
 
-</details>
+</details> -->
 
 <details>
 <summary>:zap: Top Languages</summary>
