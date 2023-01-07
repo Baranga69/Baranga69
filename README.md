@@ -1,10 +1,14 @@
 ### Hi there, I'm Keith - aka [Baranga69] 👋 
 
-- 👀 I’m interested in mobile development in Java and Dart as well as Desktop development in C# 
-- 🌱 I’m currently learning Machine Learning in Python and C# for Desktop development alongside ASP.NET for Web Development
+- 👀 I’m interested in mobile development in Java and Dart as well as development in Python for automation and IoT 
+- 🌱 I’m currently learning automation in Python for creating bots for various uses
 - 👯 I’m looking to collaborate with other aspiring developers
-- 🥅 2022 Goals: Contribute more to Open Source projects and have more commits on a regular basis to improve my own skills while growing my activity
-- ⚡ Fun fact: I am a huge nerd and I enjoy reading High Fantasy, I'm into all things mechanical too
+- 🥅 2023 Goals: 
+    - Be better.  
+    - Work on more pet projects to create impactful tools that generate value.
+    - Create more IoT projects with the goal of putting out a product that solves a real world problem.
+    - Be consistent in my activity as in the past it has reflected growth as a developer which is what all this is about. 
+- ⚡ Fun fact: Learning when I'm interested becomes an itch I just have to scratch.
 
 ### Connect with me:
 
